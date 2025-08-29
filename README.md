@@ -19,9 +19,9 @@ While Childline 1098 is India’s official child helpline, studies and ground re
 
 Therefore, we propose to enhance and modernize 1098 using Azure-powered communication + AI services.
 Hence, the impact of this will be:
-From reactive to proactive: Instead of waiting for danger calls, society can now easily report early signals of child labor/orphanhood.
-Inclusive + Scalable: Works on a ₹700 feature phone (SMS/voice) as well as smartphones.
-Empathy-first design: Simplifies reporting so any citizen—illiterate, rural, or migrant—can protect children.
+1. From reactive to proactive: Instead of waiting for danger calls, society can now easily report early signals of child labor/orphanhood.
+2. Inclusive + Scalable: Works on a ₹700 feature phone (SMS/voice) as well as smartphones.
+3. Empathy-first design: Simplifies reporting so any citizen—illiterate, rural, or migrant—can protect children.
 
 By this,
 “We are not replacing 1098, we are empowering it with an AI-driven, multilingual, inclusive reporting system that makes child protection accessible, proactive, and scalable for Digital India.”
